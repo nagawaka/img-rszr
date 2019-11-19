@@ -1,0 +1,14 @@
+{
+  "name": "quick-resizer",
+  "version": "1.0.0",
+  "description": "simple image resizer",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "sharp": "^0.23.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
